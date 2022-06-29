@@ -1,4 +1,11 @@
-### Hi there  I'm Alp.👋
+## Hi there  I'm Alp.👋
+
+<p>I'm just trying to live in the moment.</p> 
+<p>Because time is expensive and unique.</p> 
+<p>Challenging yourself and finding real improvement</p>
+<p>Is a great opportunity for a human being</p>
+
+----
 
 ![](https://media.giphy.com/media/SJX3gbZ2dbaEhU92Pu/giphy.gif)
 
