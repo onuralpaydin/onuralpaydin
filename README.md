@@ -2,6 +2,7 @@
 
 ![](https://media.giphy.com/media/SJX3gbZ2dbaEhU92Pu/giphy.gif)
 
+----
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -38,6 +39,8 @@
 <div>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=onuralpaydin&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </div>
+
+----
 
 <!--
 **onuralpaydin/onuralpaydin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
