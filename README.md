@@ -13,7 +13,7 @@
 <h3>My GitHub Stats</h3>
 
 <div>
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=onuralpaydin&show_icons=true&locale=en&layout=compact&theme=dark" alt="onuralpaydin" width="495"/>
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=onuralpaydin&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="onuralpaydin" width="495"/>
 </div>
 
 <div>
