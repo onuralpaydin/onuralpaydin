@@ -7,7 +7,7 @@
 
 ----
 
-![](https://media.giphy.com/media/SJX3gbZ2dbaEhU92Pu/giphy.gif)
+![](https://giphy.com/gifs/muhammad-ali-4dL4eV4pNb3MY)
 
 ----
 
