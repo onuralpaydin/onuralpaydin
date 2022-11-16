@@ -1,9 +1,9 @@
 ## Hi there  I'm Alp.👋
 
-<p>I'm just trying to live the moment.</p> 
-<p>Because time is expensive and unique.</p> 
-<p>Challenging yourself and finding real improvement</p>
-<p>Is a great opportunity for a human being</p>
+<p>Mea mihi conscientia pluris est quam omnium sermo</p>
+<p>Sic ad nauseam</p> 
+
+
 
 ----
 
