@@ -1,7 +1,7 @@
 ## Hi there  I'm Alp.👋
 
-<p>Mea mihi conscientia pluris est quam omnium sermo</p>
-<p>Sic ad nauseam</p> 
+<p style:font-size:2rem>Mea mihi conscientia pluris est quam omnium sermo</p>
+<p style:font-size:2rem>Sic ad nauseam</p> 
 
 
 
