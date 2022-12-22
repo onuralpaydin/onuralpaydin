@@ -2,6 +2,8 @@
 
 <p>Mea mihi conscientia pluris est quam omnium sermo</p>
 <p>Sic ad nauseam</p> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=onuralpaydin" alt="onuralpaydin" /> </p>
+
 
 
 
