@@ -38,20 +38,13 @@
 
 <h3>My GitHub Stats</h3>
 
-<div>
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=onuralpaydin&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="onuralpaydin" width="495"/>
-</div>
+|---|---|---|
 
-<div>
-<img src="https://github-readme-stats.vercel.app/api?username=onuralpaydin&show_icons=true&hide=prs,contribs&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="onuralpaydin's GitHub stats" />
-</div>
-
-
-<div>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=onuralpaydin&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-</div>
-
-----
+![banner](https://user-images.githubusercontent.com/109308073/202793525-b2d35c97-1687-46ed-a44a-86504d86c81c.png)
+|![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=onuralpaydin&theme=github_dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=onuralpaydin&theme=github_dark&utcOffset=8)|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=onuralpaydin&theme=github_dark)|
+|---|---|---|
+|![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=onuralpaydin&theme=github_dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=onuralpaydin&theme=github_dark)|![onuralpaydin's Stats](https://github-readme-stats.vercel.app/api?username=onuralpaydin&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)|
+---
 
 <!--
 **onuralpaydin/onuralpaydin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
