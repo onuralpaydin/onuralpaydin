@@ -38,7 +38,6 @@
 
 <h3>My GitHub Stats</h3>
 
-|---|---|---|
 
 ![banner](https://user-images.githubusercontent.com/109308073/202793525-b2d35c97-1687-46ed-a44a-86504d86c81c.png)
 |![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=onuralpaydin&theme=github_dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=onuralpaydin&theme=github_dark&utcOffset=8)|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=onuralpaydin&theme=github_dark)|
