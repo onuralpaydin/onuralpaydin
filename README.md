@@ -1,12 +1,5 @@
 ## Hi there  I'm Alp.👋
 
-<p>Mea mihi conscientia pluris est quam omnium sermo</p>
-<p>Sic ad nauseam</p> 
-
-
-
-
-
 ----
 
 ![](https://media2.giphy.com/media/NuxRC8DAnC62qWySWz/giphy.gif?cid=ecf05e477cf71ba4fb045ad88863149f6b3f69c91b23db75&rid=giphy.gif&ct=g)
