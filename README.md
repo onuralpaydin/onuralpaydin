@@ -32,9 +32,9 @@
 <h3>My GitHub Stats</h3>
 
 
-h3 align="center">My Stats:</h3>
+<h3 align="center">My Stats:</h3>
     <a href="https://github.com/onuralpaydin">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=onuralpaydin&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api username=onuralpaydin&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=onuralpaydin&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 <p align="center" dir="auto"><a href="https://github.com/onuralpaydin"><img src="https://github-readme-streak-stats.herokuapp.com/?user=onuralpaydin&amp;theme=algolia" width="460em" alt="onuralpaydin" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=onuralpaydin&amp;theme=algolia" style="max-width: 100%;"></a></p>
