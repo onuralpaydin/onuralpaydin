@@ -29,10 +29,21 @@
 
 ----
 
-<h3> My GitHub Stats</h3>
+<h2 align="center">Github stats :bar_chart:</h2>
 
+<h4 align="center">Visitor's count :eyes:</h4>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=onuralpaydin&show_icons=true&hide_border=true)
+<p align="center"><img src="https://profile-counter.glitch.me/{onuralpaydin}/count.svg" alt="onuralpaydin :: Visitor's Count" /></p>
+
+<h4 align="center">Top langs :tongue:</h4>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onuralpaydin&langs_count=10&theme=tokyonight&layout=compact" alt="onuralpaydin :: Top Langs" /></p>
+
+<h4 align="center">Profile stats :musical_keyboard:</h4>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=onuralpaydin&show_icons=true&theme=synthwave" alt="onuralpaydin :: Profile Stats" /></p>
+
+<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
 
 
 <!--
