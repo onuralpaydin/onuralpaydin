@@ -32,11 +32,12 @@
 <h3>My GitHub Stats</h3>
 
 
-![banner](https://user-images.githubusercontent.com/109308073/202793525-b2d35c97-1687-46ed-a44a-86504d86c81c.png)
-|![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=onuralpaydin&theme=github_dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=onuralpaydin&theme=github_dark&utcOffset=8)|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=onuralpaydin&theme=github_dark)|
-|---|---|---|
-|![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=onuralpaydin&theme=github_dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=onuralpaydin&theme=github_dark)|![onuralpaydin's Stats](https://github-readme-stats.vercel.app/api?username=onuralpaydin&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)|
----
+h3 align="center">My Stats:</h3>
+    <a href="https://github.com/onuralpaydin">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=onuralpaydin&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=onuralpaydin&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+<p align="center" dir="auto"><a href="https://github.com/onuralpaydin"><img src="https://github-readme-streak-stats.herokuapp.com/?user=onuralpaydin&amp;theme=algolia" width="460em" alt="onuralpaydin" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=onuralpaydin&amp;theme=algolia" style="max-width: 100%;"></a></p>
 
 <!--
 **onuralpaydin/onuralpaydin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
