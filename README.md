@@ -37,7 +37,7 @@
 
 <h4 align="center">Top langs :tongue:</h4>
 
- <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=onuralpaydin&theme=react&line_height=40&hide=css"/>
+<p align="center"> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=onuralpaydin&theme=react&line_height=40&hide=css"/></p>
 
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
