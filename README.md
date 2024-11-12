@@ -2,8 +2,7 @@
 
 ----
 <div align="center">
-  <img src="https://media2.giphy.com/media/NuxRC8DAnC62qWySWz/giphy.gif?cid=ecf05e477cf71ba4fb045ad88863149f6b3f69c91b23db75&rid=giphy.gif&ct=g" />  
-</div>
+ <img src="https://media1.tenor.com/m/rz7YXvXEWvIAAAAC/core-keeper-core.gif"/></div>
 
 ----
 
