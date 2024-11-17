@@ -33,6 +33,7 @@
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"></code>
 <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"></code>
 <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg"></code>
+<code><img height="30" src="https://avatars.githubusercontent.com/u/3997310?s=200&v=4"></code>
 </p>
 
 ----
