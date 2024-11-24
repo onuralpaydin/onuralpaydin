@@ -44,16 +44,9 @@
 
 <p align="center"><img src="https://profile-counter.glitch.me/{onuralpaydin}/count.svg" alt="onuralpaydin :: Visitor's Count" /></p>
 
-<h4 align="center">Top langs :tongue:</h4>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=onuralpaydin&show_icons=true&locale=en&layout=compact&theme=react" alt="onuralpaydin" height="170" /></p>
 
-<p align="center"> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=onuralpaydin&theme=react&line_height=40&hide=css"/></p>
-
-
-<h4 align="center">Profile stats :musical_keyboard:</h4>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=onuralpaydin&show_icons=true&theme=react" alt="onuralpaydin :: Profile Stats" /></p>
-<!--<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onuralpaydin&layout=compact" alt="onuralpaydin :: Profile Stats" /></p>-->
-<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=onuralpaydin&show_icons=true&locale=en&theme=react" alt="onuralpaydin" height="170" /></p>
 
 
 <!--
